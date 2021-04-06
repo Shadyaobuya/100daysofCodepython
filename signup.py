@@ -6,6 +6,6 @@ def login():
         print("Your Password should have At least one Uppercase character,\nA number,\nShouldnt be less than 6 characters\nAnd your Password should not contain your name")  
     else:
         
-        print("Successful Login")
+        print("Account created Successfully")
 
 login()
