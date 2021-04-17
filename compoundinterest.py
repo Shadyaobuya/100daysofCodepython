@@ -11,7 +11,7 @@ if (askInput == "CI" or askInput =="A" or askInput=="T"):
     
     principal=float(input("Enter the principal Amount: "))
     rate=float(input("Enter the rate in Decimal form: "))
-    n=float(input("How many times is the amount being compounded: "))
+    n=float(input("How many times is the amount being compounded: "))     
 
     if askInput=="CI":
         time=float(input("Enter time in years: "))
